@@ -15,7 +15,7 @@ project(Clever)
 # ---------------------------------------------------------------------------
 include_directories(.)
 
-# Packages
+# Package
 # ---------------------------------------------------------------------------
 set(CMAKE_MODULE_PATH ${CMAKE_CURRENT_SOURCE_DIR}/cmake)
 find_package(BISON)
