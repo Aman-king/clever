@@ -34,7 +34,7 @@ enough. `The LLVM`_ one is also quite nice.
 
 Use the `.cc` extension for C++ source files and `.h` for C++ headers,
 hopefully your compiler is smart enough to identify C++ source inside a `.h`
-(don't worry, GCC and Clang are!). Oh, I almost forgot, please use *tabs
+(don't worry, gcc and Clang are!). Oh, I almost forgot, please use *tabs
 instead of spaces*, UTF-8 file encoding and UNIX file endings (Line feed
 a.k.a. `\n`).
 
